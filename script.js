@@ -29,7 +29,7 @@ function isEmpty(){
     }
 }
 
-// la fonction vide la liste des items, affiche une liste des itesm présent dans le tableau, et appel isEmpty();
+// la fonction vide la liste des items, affiche une liste des items (nom, quantité et la personne) présent dans le tableau, et appel isEmpty(); 
 function displayItems(){
     itemsList.innerHTML = "";
 
